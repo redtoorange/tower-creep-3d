@@ -1,7 +1,7 @@
-using TowerCreep.TowerCreep2D.Scripts.Damage;
+using TowerCreep2D.TowerCreep2D.Scripts.Damage;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.Shooting
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.Shooting
 {
     public class Projectile : MonoBehaviour
     {

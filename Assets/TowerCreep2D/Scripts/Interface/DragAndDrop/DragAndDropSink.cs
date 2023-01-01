@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.DragAndDrop
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.DragAndDrop
 {
     public abstract class DragAndDropSink : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {

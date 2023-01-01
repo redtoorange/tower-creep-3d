@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.SelectedTowerList
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.SelectedTowerList
 {
     public class NumberedSlot : MonoBehaviour
     {

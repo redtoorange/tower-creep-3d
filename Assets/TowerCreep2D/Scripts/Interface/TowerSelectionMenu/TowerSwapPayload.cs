@@ -1,7 +1,7 @@
-﻿using TowerCreep.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.SelectedTowerList;
-using TowerCreep.TowerCreep2D.Scripts.Towers;
+﻿using TowerCreep2D.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.SelectedTowerList;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.TowerSelectionMenu
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.TowerSelectionMenu
 {
     public class TowerSwapPayload
     {

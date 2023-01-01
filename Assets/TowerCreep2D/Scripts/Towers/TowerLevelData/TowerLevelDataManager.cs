@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.TowerLevelData
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.TowerLevelData
 {
     public class TowerLevelDataManager : MonoBehaviour
     {

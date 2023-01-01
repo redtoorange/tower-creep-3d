@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.Tooltip
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.Tooltip
 {
     public class ToolTipTarget : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {

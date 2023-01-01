@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Towers.Placement;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers.Placement;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.Selection
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.Selection
 {
     public class TowerSelectionController : MonoBehaviour
     {

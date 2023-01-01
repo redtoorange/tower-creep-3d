@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Levels.DungeonLevels;
-using TowerCreep.TowerCreep2D.Scripts.Player.TowerCollection;
+using TowerCreep2D.TowerCreep2D.Scripts.Levels.DungeonLevels;
+using TowerCreep2D.TowerCreep2D.Scripts.Player.TowerCollection;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.Placement
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.Placement
 {
     public class TowerController : MonoBehaviour
     {

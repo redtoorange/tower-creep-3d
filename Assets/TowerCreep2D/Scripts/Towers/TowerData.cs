@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers
 {
     [CreateAssetMenu(fileName = "Data", menuName = "TowerCreep/TowerData", order = 1)]
     public class TowerData : ScriptableObject

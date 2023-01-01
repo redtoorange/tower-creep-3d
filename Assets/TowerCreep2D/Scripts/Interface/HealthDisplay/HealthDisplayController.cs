@@ -1,8 +1,8 @@
 ﻿using TMPro;
-using TowerCreep.TowerCreep2D.Scripts.Player;
+using TowerCreep2D.TowerCreep2D.Scripts.Player;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.HealthDisplay
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.HealthDisplay
 {
     public class HealthDisplayController : MonoBehaviour
     {

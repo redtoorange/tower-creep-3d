@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.Shooting
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.Shooting
 {
     public class TowerRangeDetection : MonoBehaviour
     {

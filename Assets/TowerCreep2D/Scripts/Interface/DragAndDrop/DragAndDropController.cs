@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.DragAndDrop
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.DragAndDrop
 {
     public class DragAndDropController : MonoBehaviour
     {

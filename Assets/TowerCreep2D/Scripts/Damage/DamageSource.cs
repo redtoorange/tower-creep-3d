@@ -1,7 +1,7 @@
 ﻿using System;
-using TowerCreep.TowerCreep2D.Scripts.Towers.TowerLevelData;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers.TowerLevelData;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Damage
+namespace TowerCreep2D.TowerCreep2D.Scripts.Damage
 {
     [Serializable]
     public struct DamageSource

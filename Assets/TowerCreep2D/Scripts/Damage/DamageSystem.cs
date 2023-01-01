@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Damage
+namespace TowerCreep2D.TowerCreep2D.Scripts.Damage
 {
     public class DamageSystem : MonoBehaviour
     {

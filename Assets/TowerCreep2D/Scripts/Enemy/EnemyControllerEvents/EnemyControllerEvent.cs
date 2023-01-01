@@ -1,4 +1,4 @@
-﻿namespace TowerCreep.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents
+﻿namespace TowerCreep2D.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents
 {
     public enum EnemyControllerEventType
     {

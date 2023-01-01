@@ -1,8 +1,8 @@
 ﻿using System;
-using TowerCreep.TowerCreep2D.Scripts.Levels;
+using TowerCreep2D.TowerCreep2D.Scripts.Levels;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.BuildPhase
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.BuildPhase
 {
     public class BuildPhaseController : MonoBehaviour
     {

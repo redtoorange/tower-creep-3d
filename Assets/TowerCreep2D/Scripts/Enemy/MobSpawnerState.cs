@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Enemy
+namespace TowerCreep2D.TowerCreep2D.Scripts.Enemy
 {
     [Serializable]
     public enum MobSpawnerState

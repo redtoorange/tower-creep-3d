@@ -1,10 +1,10 @@
 using TowerCreep.Thirdparty.LeanTween.Framework;
-using TowerCreep.TowerCreep2D.Scripts.Enemy;
-using TowerCreep.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents;
+using TowerCreep2D.TowerCreep2D.Scripts.Enemy;
+using TowerCreep2D.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.LevelProgressBar
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.LevelProgressBar
 {
     public class ProgressBarController : MonoBehaviour
     {

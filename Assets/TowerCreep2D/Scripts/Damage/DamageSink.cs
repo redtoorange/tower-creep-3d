@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Damage
+namespace TowerCreep2D.TowerCreep2D.Scripts.Damage
 {
     [Serializable]
     public struct DamageSink

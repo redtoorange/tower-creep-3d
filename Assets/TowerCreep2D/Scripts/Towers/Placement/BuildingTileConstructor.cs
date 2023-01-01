@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Tilemaps;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.Placement
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.Placement
 {
     /// <summary>
     /// Scan the map on first load and replace the "Buildable" tilemap with instances of the BuildableTileNode.

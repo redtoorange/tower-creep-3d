@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.Selection
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.Selection
 {
     [Serializable]
     public class TowerSelectionStateChange

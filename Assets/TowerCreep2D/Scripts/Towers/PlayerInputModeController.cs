@@ -1,9 +1,9 @@
-﻿using TowerCreep.TowerCreep2D.Scripts.Towers.Placement;
-using TowerCreep.TowerCreep2D.Scripts.Towers.Selection;
+﻿using TowerCreep2D.TowerCreep2D.Scripts.Towers.Placement;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers.Selection;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers
 {
     public enum PlayerInputMode
     {

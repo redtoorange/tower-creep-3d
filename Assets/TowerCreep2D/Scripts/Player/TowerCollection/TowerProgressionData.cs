@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Player.TowerCollection
+namespace TowerCreep2D.TowerCreep2D.Scripts.Player.TowerCollection
 {
     public class TowerProgressionData
     {

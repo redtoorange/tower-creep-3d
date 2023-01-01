@@ -1,8 +1,8 @@
 using System;
-using TowerCreep.TowerCreep2D.Scripts.Player;
+using TowerCreep2D.TowerCreep2D.Scripts.Player;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Map.Doors
+namespace TowerCreep2D.TowerCreep2D.Scripts.Map.Doors
 {
     public class Door : MonoBehaviour
     {

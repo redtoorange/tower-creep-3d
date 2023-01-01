@@ -1,7 +1,7 @@
-using TowerCreep.TowerCreep2D.Scripts.Utility;
+using TowerCreep2D.TowerCreep2D.Scripts.Utility;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.WinScreen
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.WinScreen
 {
     public class WinScreenController : MonoBehaviour
     {

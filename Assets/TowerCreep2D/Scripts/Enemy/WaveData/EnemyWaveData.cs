@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Enemy.WaveData
+namespace TowerCreep2D.TowerCreep2D.Scripts.Enemy.WaveData
 {
     [CreateAssetMenu(fileName = "Data", menuName = "TowerCreep/WaveData", order = 1)]
     public class EnemyWaveData : ScriptableObject

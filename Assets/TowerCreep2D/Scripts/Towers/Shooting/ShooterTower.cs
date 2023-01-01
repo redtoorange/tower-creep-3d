@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Damage;
-using TowerCreep.TowerCreep2D.Scripts.Player.TowerCollection;
-using TowerCreep.TowerCreep2D.Scripts.Towers.TowerLevelData;
+using TowerCreep2D.TowerCreep2D.Scripts.Damage;
+using TowerCreep2D.TowerCreep2D.Scripts.Player.TowerCollection;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers.TowerLevelData;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.Shooting
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.Shooting
 {
     public class ShooterTower : MonoBehaviour
     {

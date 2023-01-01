@@ -1,12 +1,12 @@
 using System;
-using TowerCreep.TowerCreep2D.Scripts.Enemy;
-using TowerCreep.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents;
-using TowerCreep.TowerCreep2D.Scripts.Interface.BuildPhase;
-using TowerCreep.TowerCreep2D.Scripts.Map.Doors;
-using TowerCreep.TowerCreep2D.Scripts.Player;
+using TowerCreep2D.TowerCreep2D.Scripts.Enemy;
+using TowerCreep2D.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents;
+using TowerCreep2D.TowerCreep2D.Scripts.Interface.BuildPhase;
+using TowerCreep2D.TowerCreep2D.Scripts.Map.Doors;
+using TowerCreep2D.TowerCreep2D.Scripts.Player;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Levels.DungeonLevels
+namespace TowerCreep2D.TowerCreep2D.Scripts.Levels.DungeonLevels
 {
     public class DungeonLevel : MonoBehaviour
     {

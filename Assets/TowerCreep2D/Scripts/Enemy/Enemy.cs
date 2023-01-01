@@ -1,12 +1,12 @@
 ﻿using System;
-using TowerCreep.TowerCreep2D.Scripts.Damage;
-using TowerCreep.TowerCreep2D.Scripts.Enemy.HealthBar;
-using TowerCreep.TowerCreep2D.Scripts.Interface.DamagePopups;
-using TowerCreep.TowerCreep2D.Scripts.Map.Portals;
-using TowerCreep.TowerCreep2D.Scripts.Towers;
+using TowerCreep2D.TowerCreep2D.Scripts.Damage;
+using TowerCreep2D.TowerCreep2D.Scripts.Enemy.HealthBar;
+using TowerCreep2D.TowerCreep2D.Scripts.Interface.DamagePopups;
+using TowerCreep2D.TowerCreep2D.Scripts.Map.Portals;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Enemy
+namespace TowerCreep2D.TowerCreep2D.Scripts.Enemy
 {
     public enum EnemyState
     {

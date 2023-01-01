@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.DamagePopups
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.DamagePopups
 {
     public class DamagePopupText : MonoBehaviour
     {

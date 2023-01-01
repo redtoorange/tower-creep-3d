@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Damage;
+using TowerCreep2D.TowerCreep2D.Scripts.Damage;
 using UnityEngine;
 using UnityJSON;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.TowerLevelData
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.TowerLevelData
 {
     [Serializable]
     public class TowerLevelDataRecord

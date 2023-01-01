@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.Shooting
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.Shooting
 {
     [RequireComponent(typeof(LineRenderer))]
     public class TowerRangePreview : MonoBehaviour

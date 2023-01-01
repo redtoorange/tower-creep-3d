@@ -1,9 +1,9 @@
-using TowerCreep.TowerCreep2D.Scripts.Utility;
+using TowerCreep2D.TowerCreep2D.Scripts.Utility;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.PauseMenu
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.PauseMenu
 {
     public class PauseMenuController : MonoBehaviour
     {

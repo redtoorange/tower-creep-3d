@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Player
+namespace TowerCreep2D.TowerCreep2D.Scripts.Player
 {
     public enum PlayerMovementState
     {

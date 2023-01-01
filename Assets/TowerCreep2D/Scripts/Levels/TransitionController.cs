@@ -1,7 +1,7 @@
 ﻿using TowerCreep.Thirdparty.LeanTween.Framework;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Levels
+namespace TowerCreep2D.TowerCreep2D.Scripts.Levels
 {
     public class TransitionController : MonoBehaviour
     {

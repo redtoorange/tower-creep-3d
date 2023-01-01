@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Damage;
+using TowerCreep2D.TowerCreep2D.Scripts.Damage;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Enemy.MonsterData
+namespace TowerCreep2D.TowerCreep2D.Scripts.Enemy.MonsterData
 {
     [CreateAssetMenu(fileName = "Data", menuName = "TowerCreep/MonsterData", order = 1)]
     public class MonsterData : ScriptableObject

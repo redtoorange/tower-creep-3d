@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityJSON;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Damage
+namespace TowerCreep2D.TowerCreep2D.Scripts.Damage
 {
     /// <summary>
     /// Primary type of a damage, True damage cannot be defended against. Physical can only be countered by Physical and

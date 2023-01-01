@@ -1,9 +1,9 @@
 ﻿using System;
-using TowerCreep.TowerCreep2D.Scripts.Utility;
+using TowerCreep2D.TowerCreep2D.Scripts.Utility;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.TowerSelectionMenu
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.TowerSelectionMenu
 {
     public class TowerSelectionButtonController : MonoBehaviour
     {

@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Player.TowerCollection;
-using TowerCreep.TowerCreep2D.Scripts.Towers.Placement;
+using TowerCreep2D.TowerCreep2D.Scripts.Player.TowerCollection;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers.Placement;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.HotBar
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.HotBar
 {
     public class TowerHotBarController : MonoBehaviour
     {

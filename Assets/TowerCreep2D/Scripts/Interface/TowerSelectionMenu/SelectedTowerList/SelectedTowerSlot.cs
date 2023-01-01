@@ -1,10 +1,10 @@
 ﻿using System;
-using TowerCreep.TowerCreep2D.Scripts.Towers;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.SelectedTowerList
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.SelectedTowerList
 {
     public class SelectedTowerSlot : MonoBehaviour, IPointerClickHandler, IPointerDownHandler
     {

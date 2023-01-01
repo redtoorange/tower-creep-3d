@@ -1,10 +1,10 @@
 using System;
-using TowerCreep.TowerCreep2D.Scripts.Player.TowerCollection;
+using TowerCreep2D.TowerCreep2D.Scripts.Player.TowerCollection;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.HotBar
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.HotBar
 {
     public class TowerHotBarSlot : MonoBehaviour, IPointerClickHandler
     {

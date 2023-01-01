@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Utility
+namespace TowerCreep2D.TowerCreep2D.Scripts.Utility
 {
     public class PauseManager : MonoBehaviour
     {

@@ -1,8 +1,8 @@
-using TowerCreep.TowerCreep2D.Scripts.Utility;
+using TowerCreep2D.TowerCreep2D.Scripts.Utility;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.Menu
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.Menu
 {
     /// <summary>
     /// Main menu for the game, will be the first screen we see.

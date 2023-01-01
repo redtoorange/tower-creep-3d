@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents;
-using TowerCreep.TowerCreep2D.Scripts.Enemy.WaveData;
-using TowerCreep.TowerCreep2D.Scripts.Towers.Placement;
+using TowerCreep2D.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents;
+using TowerCreep2D.TowerCreep2D.Scripts.Enemy.WaveData;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers.Placement;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Enemy
+namespace TowerCreep2D.TowerCreep2D.Scripts.Enemy
 {
     public class EnemyController : MonoBehaviour
     {

@@ -1,9 +1,9 @@
 ﻿using System;
-using TowerCreep.TowerCreep2D.Scripts.Player.TowerCollection;
-using TowerCreep.TowerCreep2D.Scripts.Towers.Selection;
+using TowerCreep2D.TowerCreep2D.Scripts.Player.TowerCollection;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers.Selection;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers
 {
     public class Tower : MonoBehaviour, ISelectable, IHoverable
     {

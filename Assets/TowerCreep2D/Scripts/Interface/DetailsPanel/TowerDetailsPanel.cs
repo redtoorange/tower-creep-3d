@@ -1,9 +1,9 @@
 using TMPro;
-using TowerCreep.TowerCreep2D.Scripts.Towers;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.DetailsPanel
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.DetailsPanel
 {
     public class TowerDetailsPanel : MonoBehaviour
     {

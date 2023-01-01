@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Map.Portals
+namespace TowerCreep2D.TowerCreep2D.Scripts.Map.Portals
 {
     public class PortalController : MonoBehaviour
     {

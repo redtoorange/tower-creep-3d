@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Player
+namespace TowerCreep2D.TowerCreep2D.Scripts.Player
 {
     [Serializable]
     public class PlayerResource

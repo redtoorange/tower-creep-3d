@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.TowerSelectionMenu
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.TowerSelectionMenu
 {
     public class TowerDataTransfer : MonoBehaviour
     {

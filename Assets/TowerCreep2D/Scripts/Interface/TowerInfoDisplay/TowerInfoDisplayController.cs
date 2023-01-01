@@ -1,12 +1,12 @@
 using TMPro;
-using TowerCreep.TowerCreep2D.Scripts.Player.TowerCollection;
-using TowerCreep.TowerCreep2D.Scripts.Towers;
-using TowerCreep.TowerCreep2D.Scripts.Towers.Selection;
-using TowerCreep.TowerCreep2D.Scripts.Towers.TowerLevelData;
+using TowerCreep2D.TowerCreep2D.Scripts.Player.TowerCollection;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers.Selection;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers.TowerLevelData;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.TowerInfoDisplay
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.TowerInfoDisplay
 {
     public class TowerInfoDisplayController : MonoBehaviour
     {

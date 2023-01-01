@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Towers.Placement
+namespace TowerCreep2D.TowerCreep2D.Scripts.Towers.Placement
 {
     public class BuildableTile : MonoBehaviour
     {

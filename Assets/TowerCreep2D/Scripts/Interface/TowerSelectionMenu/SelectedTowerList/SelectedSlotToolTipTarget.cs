@@ -1,6 +1,6 @@
-﻿using TowerCreep.TowerCreep2D.Scripts.Interface.Tooltip;
+﻿using TowerCreep2D.TowerCreep2D.Scripts.Interface.Tooltip;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.SelectedTowerList
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.SelectedTowerList
 {
     public class SelectedSlotToolTipTarget : ToolTipTarget
     {

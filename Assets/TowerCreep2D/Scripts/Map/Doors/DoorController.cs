@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Enemy;
-using TowerCreep.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents;
+using TowerCreep2D.TowerCreep2D.Scripts.Enemy;
+using TowerCreep2D.TowerCreep2D.Scripts.Enemy.EnemyControllerEvents;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Map.Doors
+namespace TowerCreep2D.TowerCreep2D.Scripts.Map.Doors
 {
     public class DoorController : MonoBehaviour
     {

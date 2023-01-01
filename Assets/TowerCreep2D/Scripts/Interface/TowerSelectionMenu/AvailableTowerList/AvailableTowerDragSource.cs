@@ -1,7 +1,7 @@
-﻿using TowerCreep.TowerCreep2D.Scripts.Interface.DragAndDrop;
+﻿using TowerCreep2D.TowerCreep2D.Scripts.Interface.DragAndDrop;
 using UnityEngine;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.AvailableTowerList
+namespace TowerCreep2D.TowerCreep2D.Scripts.Interface.TowerSelectionMenu.AvailableTowerList
 {
     public class AvailableTowerDragSource : DragAndDropSource
     {

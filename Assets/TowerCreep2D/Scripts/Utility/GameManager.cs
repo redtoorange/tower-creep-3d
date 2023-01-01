@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Towers;
+using TowerCreep2D.TowerCreep2D.Scripts.Towers;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Utility
+namespace TowerCreep2D.TowerCreep2D.Scripts.Utility
 {
     public class GameManager : MonoBehaviour
     {

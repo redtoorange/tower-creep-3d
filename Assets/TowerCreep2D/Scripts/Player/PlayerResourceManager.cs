@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using TowerCreep.TowerCreep2D.Scripts.Utility;
+using TowerCreep2D.TowerCreep2D.Scripts.Utility;
 using UnityEngine;
-using Portal = TowerCreep.TowerCreep2D.Scripts.Map.Portals.Portal;
+using Portal = TowerCreep2D.TowerCreep2D.Scripts.Map.Portals.Portal;
 
-namespace TowerCreep.TowerCreep2D.Scripts.Player
+namespace TowerCreep2D.TowerCreep2D.Scripts.Player
 {
     /// <summary>
     /// Generic manager for different resources
