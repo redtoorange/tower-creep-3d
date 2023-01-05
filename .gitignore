@@ -564,12 +564,14 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/unity,windows,rider,csharp
 
-/Assets/ExplosiveLLC/*
-/Assets/Kevin Iglesias/*
-/Assets/PolygonDungeon/*
-/Assets/PolygonDungeonRealms/*
-/Assets/PolygonFantasyCharacters/*
-/Assets/PolygonFantasyKingdom/*
-/Assets/PolygonFantasyRivals/*
-/Assets/PolygonPrototype/*
-/Builds/
+
+Assets/Thirdparty/Allsky/*
+Assets/Thirdparty/ExplosiveLLC/*
+Assets/Thirdparty/Kevin Iglesias/*
+Assets/Thirdparty/PolygonDungeon/*
+Assets/Thirdparty/PolygonDungeonRealms/*
+Assets/Thirdparty/PolygonFantasyCharacters/*
+Assets/Thirdparty/PolygonFantasyKingdom/*
+Assets/Thirdparty/PolygonFantasyRivals/*
+Assets/Thirdparty/PolygonPrototype/*
+Builds/
